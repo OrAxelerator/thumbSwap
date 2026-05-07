@@ -3,7 +3,7 @@
   "name": "ThumbReplacer",
    "description": "Replace YouTube thumbnails and video titles with custom images and text in real time.",
    "author": "OrAxelerator",
-     "homepage_url": "https://github.com/your-username/thumbswap",
+     "homepage_url": "https://github.com/OrAxelerator/thumbSwap",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],
   "action": {
@@ -16,6 +16,7 @@
     }
   ],
   "icons" : {
-	"128":"icon128.png"
+	"128":"icon128.png",
+  "512":"icon512.png"
   }
 }
