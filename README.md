@@ -1,5 +1,7 @@
 # thumbSwap
 
+![](/presentation.gif)
+
 This extension allows content creators to preview and test how video thumbnails and titles appear directly in the YouTube feed before publishing.
 
 It works by temporarily replacing thumbnails and titles in real time on YouTube pages, enabling creators to simulate different presentation styles and improve their content performance.
